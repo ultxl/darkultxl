@@ -28,4 +28,4 @@ Support Page
 
 ### ULTXL TECH
 <div align="center">
-<a href="https://t.me/dark_army_ke/"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=G0B1&center=true&width=910&height=100&lines=Don't+Forget to take a bath 🥸;PROGRAM+By+CHAPEEY" alt="Typing SVG" /></a>
+<a href="https://t.me/dark_army_ke/"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=G0B1&center=true&width=910&height=100&lines=Don't+Forget to take a bath 🥸PROGRAMED+BY++ULTXL" alt="Typing SVG" /></a>

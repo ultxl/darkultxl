@@ -18,7 +18,7 @@ wget https://raw.githubusercontent.com/ultxl/darkultxl/main/update.sh && chmod +
 
 ![logo](https://raw.githubusercontent.com/ultxl/darkultxl/main/sc1.jpg)
 
-Support Port
+Support Page
 
 ![logo](https://raw.githubusercontent.com/ultxl/darkultxl/main/sc2.jpg)
 

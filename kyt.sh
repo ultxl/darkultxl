@@ -9,13 +9,13 @@ NC='\e[0m'
 apt update && apt upgrade
 apt install python3 python3-pip git
 cd /usr/b
-wget https://raw.githubusercontent.com/ultxl/darkultxl/main/mainv/bot.zip
+wget https://raw.githubusercontent.com/ultxl/darkultxl/ubuntu/mainv/bot.zip
 unzip bot.zip
 mv bot/* /usr/bin
 chmod +x /usr/bin/*
 rm -rf bot.zip
 clear
-wget https://raw.githubusercontent.com/ultxl/darkultxl/main/mainv/kyt.zip
+wget https://raw.githubusercontent.com/ultxl/darkultxl/main/ubuntu/kyt.zip
 unzip kyt.zip
 pip3 install -r kyt/requirements.txt
 

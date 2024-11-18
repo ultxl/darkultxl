@@ -18,8 +18,15 @@ def handle_client(client_socket, upstream_address):
             client_address = client_socket.getpeername()
             print(f"[+] Connection established with {client_address}")
 
-            # Send custom response (simplified)
-            custom_response = 'HTTP/1.1 101<b><font color=#FFA500>ULTXL</font></b>\r\n\r\n'
+            # Send custom response (properly formatted)
+            custom_response = (
+                'HTTP/1.1 101 Switching Protocols\r\n'
+                'Content-Type: text/html; charset=UTF-8\r\n'
+                'Connection: Upgrade\r\n'
+                'Upgrade: ULTXL\r\n'
+                '\r\n'
+                '<b><font color="#FFA500">ULTXL</font></b>'
+            )
             client_socket.send(custom_response.encode())
 
             # Prepare sockets for forwarding
@@ -43,6 +50,7 @@ def handle_client(client_socket, upstream_address):
         print(f"[-] Connection handling error: {e}")
     finally:
         client_socket.close()
+        print(f"[-] Closed connection with {client_socket.getpeername()}")
 
 def handle_shutdown(signal_number, frame):
     print("\n[!] Shutting down proxy server...")

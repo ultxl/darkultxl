@@ -1,3 +1,4 @@
+
 import socket
 import select
 import threading
@@ -20,12 +21,11 @@ def handle_client(client_socket, upstream_address):
 
             # Send custom response (properly formatted)
             custom_response = (
-                'HTTP/1.1 101 Switching Protocols\r\n'
+                'HTTP/1.1 200 OK\r\n'
                 'Content-Type: text/html; charset=UTF-8\r\n'
-                'Connection: Upgrade\r\n'
-                'Upgrade: ULTXL\r\n'
+                'Connection: close\r\n'
                 '\r\n'
-                '<b><font color="#FFA500">ULTXL</font></b>'
+                '<html><body><b><font color="#FFA500">ULTXL</font></b></body></html>'
             )
             client_socket.send(custom_response.encode())
 
@@ -50,7 +50,6 @@ def handle_client(client_socket, upstream_address):
         print(f"[-] Connection handling error: {e}")
     finally:
         client_socket.close()
-        print(f"[-] Closed connection with {client_socket.getpeername()}")
 
 def handle_shutdown(signal_number, frame):
     print("\n[!] Shutting down proxy server...")

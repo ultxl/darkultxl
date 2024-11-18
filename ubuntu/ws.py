@@ -19,7 +19,7 @@ def handle_client(client_socket, upstream_address):
             print(f"[+] Connection established with {client_address}")
 
             # Send custom response (simplified)
-            custom_response = 'HTTP/1.1 101 <b><font color=#FFA500>ULTXL SPIDEY</font></b>\r\n\r\n'
+            custom_response = 'HTTP/1.1 101 <b><font color=#FFA500>ULTXLSPIDEY</font></b>\r\n\r\n'
             client_socket.send(custom_response.encode())
 
             # Prepare sockets for forwarding

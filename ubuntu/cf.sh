@@ -2,10 +2,10 @@
 MYIP=$(wget -qO- icanhazip.com);
 apt install jq curl -y
 #read -p "Masukan Domain (contoh : Dragon)" domen
-DOMAIN=domainmu
+DOMAIN="ultxl.cloud"
 sub=$(</dev/urandom tr -dc a-z0-9 | head -c5)
-dns=${sub}.subdomainmu
-CF_ID=emailmu@gmail.com
+dns=${sub} "ultxl.cloud"
+CF_ID=ultxl01@gmail.com
 CF_KEY=keytele
 set -euo pipefail
 IP=$(wget -qO- icanhazip.com);

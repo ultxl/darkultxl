@@ -6,7 +6,7 @@ ns_domain_cloudflare() {
 	SUB=$(tr </dev/urandom -dc a-z0-9 | head -c7)
 	SUB_DOMAIN=${SUB}."ultxl.cloud"
 	NS_DOMAIN=dns.${SUB_DOMAIN}
-	CF_ID=ultxl.cloud
+	CF_ID=ultxl01@gmail.com
         CF_KEY=3f485e550288defa9d0e97039eab598de1c58
 	set -euo pipefail
 	IP=$(wget -qO- ipinfo.io/ip)

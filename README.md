@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=S+C+R+I+P+T++B+Y++U+L+T+X+L" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=S+C+R+I+P+T++B+Y++T+E+V+I+X+L" />
 </p>
 
 <!-- Github README -->
@@ -29,4 +29,4 @@ Support Page
 #### ULTXL TECH
 
 <div align="center">
-<a href="https://t.me/techtevi/"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=G0B1&center=true&width=910&height=100&lines=Don't+Forget to join my telegram;PROGRAM+BY+ULTXL" alt="Typing SVG" /></a>
+<a href="https://t.me/techtevi/"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=G0B1&center=true&width=910&height=100&lines=Don't+Forget to join my telegram;PROGRAM+BY+TEVIXL" alt="Typing SVG" /></a>

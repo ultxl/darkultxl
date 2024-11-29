@@ -1,6 +1,6 @@
 #!/bin/bash
 # Edition : Stable Edition V3.0
-# Author  : ULTXL
+# Author  : TEVIXL
 # (C) Copyright 2025
 # =========================================
 
@@ -18,7 +18,7 @@ clear
 #	 menu
 #else
 
-echo -e "Installing 𝐓𝐂𝐏 ULTXL 𝐒𝐓𝐎𝐑𝐄"
+echo -e "Installing 𝐓𝐂𝐏 TEVIXL 𝐒𝐓𝐎𝐑𝐄"
 echo -e "Please Wait BBR Installation Will Starting . . ."
 sleep 5
 clear

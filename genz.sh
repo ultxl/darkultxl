@@ -6,7 +6,7 @@
 # telegram   » https://t.me/tevi_xl
 # whatsapp   » wa.me/+254785429940
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# ULTXLVPS AUTO SCRIPT
+# TEVIXLVPS AUTO SCRIPT
 
 Green="\e[92;1m"
 RED="\033[31m"

@@ -1,7 +1,7 @@
 #!/bin/bash
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # System Request : Debian 9+/Ubuntu 18.04+/20+
-# Developer » Darkanonc
+# Developer » TEVIXL & HAMITECH
 # Email      » ultxl01@gmail.com
 # telegram   » https://t.me/tevi_xl
 # whatsapp   » wa.me/254785429940

@@ -12,8 +12,8 @@ apt install jq curl -y
 sub=$(premium)
 DOMAIN=ultxl.store
 SUB_DOMAIN=${sub}.ultx.store
-CF_ID=ultspidey007@gmail.com
-CF_KEY=__UzIP9Zc_P2hE-SbDQpTOyPwbugSXNEIY-k-Pmfk
+CF_ID=emailmu@gmail.com
+CF_KEY=keytele
 set -euo pipefail
 IP=$(curl -sS ifconfig.me);
 echo "Updating DNS for ${SUB_DOMAIN}..."

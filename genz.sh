@@ -1,9 +1,9 @@
 #!/bin/bash
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # System Request : Debian 9+/Ubuntu 18.04+/20+
-# Develovers » ULTXL
+# Develovers » TEVIXL & HAMITECH
 # Email      » ultxl01@gmail.com
-# telegram   » https://t.me/ult_xl
+# telegram   » https://t.me/tevi_xl
 # whatsapp   » wa.me/+254785429940
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # ULTXLVPS AUTO SCRIPT
@@ -33,9 +33,9 @@ clear;clear;clear
 
   # // Banner
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
-echo -e "  Script : ${GRAY} Welcome to ULTXL STORE ${NC}"
-echo -e "  Author : ${RED} ULTXL ${NC}${YELLOW}${NC}"
-echo -e "  ©2024  : ${BLUE} ULTXL AUTOSCRIPT${NC}"
+echo -e "  Script : ${GRAY} Welcome to TEVI STORE ${NC}"
+echo -e "  Author : ${RED} TEVI ${NC}${YELLOW}${NC}"
+echo -e "  ©2024  : ${BLUE} TEVI AUTOSCRIPT${NC}"
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
 echo ""
 sleep 2
@@ -321,7 +321,7 @@ URL="https://api.telegram.org/bot$KEY/sendMessage"
     TIMEZONE=$(printf '%(%H:%M:%S)T')
     TEXT="
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
-<b>WELCOME TO ULTXL SCRIPT </b>
+<b>WELCOME TO TEVIXL SCRIPT </b>
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
 <code>User     :</code><code>$username</code>
 <code>Domain   :</code><code>$domain</code>
@@ -331,7 +331,7 @@ URL="https://api.telegram.org/bot$KEY/sendMessage"
 <code>Time     :</code><code>$TIMEZONE</code>
 <code>Exp Sc.  :</code><code>$exp</code>
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
-<b>WELCOME TO ULTXL STORE</b>
+<b>WELCOME TO TEVIXL STORE</b>
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
 <i>Automatic Notifications From Github</i>
 "'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"https://wa.me/+254785429940"}]]}' 

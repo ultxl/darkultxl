@@ -20,7 +20,7 @@ echo ""
 read -rp "Input Domain Name. Example ( kontol12 ): " -e sub
 DOMAIN=ultxl.store
 SUB_DOMAIN=${sub}.ultxl.store
-CF_ID=Ultspidey007@gmail.com
+CF_ID=ultspidey007@gmail.com
 CF_KEY=4cc93e60351b4aa19e28cdbd6f666366
 set -euo pipefail
 IP=$(curl -sS ifconfig.me);

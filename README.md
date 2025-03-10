@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=S+C+R+I+P+T++B+Y++U+L+T+X+L" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=S+C+R+I+P+T++B+Y++T+E+V+I+X+L" />
 </p>
 
 <!-- Github README -->
@@ -15,6 +15,11 @@ wget https://raw.githubusercontent.com/ultxl/darkultxl/main/update.sh && chmod +
 
 ```
 
+### INSTALL UDP
+```
+
+wget https://raw.githubusercontent.com/ultxl/darkultxl/main/ubuntu/udp.sh && chmod +x udp.sh && ./udp.sh
+```
 
 ![logo](https://raw.githubusercontent.com/ultxl/darkultxl/main/sc1.jpg)
 

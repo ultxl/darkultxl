@@ -6,7 +6,7 @@
 # telegram   » https://t.me/tevi_xl
 # whatsapp   » wa.me/254785429940
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# Darkanonc
+# Tevixl
 
 #random
 apt install jq curl -y

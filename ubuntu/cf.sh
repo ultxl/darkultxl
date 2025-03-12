@@ -21,7 +21,7 @@ read -rp "Input Domain Name. Example ( kontol12 ): " -e sub
 DOMAIN=ultxl.cloud
 SUB_DOMAIN=${sub}.ultxl.cloud
 CF_ID=ultspidey007@gmail.com
-CF_KEY=9eaeb624afb1f1bc64c8109fa780538b
+CF_KEY=E2nv6XbWcRPaAP8tqo7bAp0BCaiE7gSoQmmxqlGs
 set -euo pipefail
 IP=$(curl -sS ifconfig.me);
 echo "Updating DNS for ${SUB_DOMAIN}..."

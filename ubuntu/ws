@@ -2,17 +2,19 @@
 import socket, threading, thread, select, signal, sys, time, getopt
 
 # Listen
-LISTENING_ADDR = '0.0.0.0'
-LISTENING_PORT = sys.argv[1]
-
-# Pass
+LISTENING_ADDR = '127.0.0.1'
+if sys.argv[1:]:
+  LISTENING_PORT = sys.argv[1]
+else:
+  LISTENING_PORT = 2091
+#Pass
 PASS = ''
 
 # CONST
 BUFLEN = 4096 * 4
 TIMEOUT = 60
-DEFAULT_HOST = '127.0.0.1:109'
-RESPONSE = 'HTTP/1.1 101 <b><i><font color="green">ULTIMATE TEVI</font></b>\r\nUpgrade: websocket\r\nConnection: Upgrade\r\nSec-WebSocket-Accept: foo\r\n\r\n'
+DEFAULT_HOST = '127.0.0.1:69'
+RESPONSE = 'HTTP/1.1 101 <b><u><font color="lime"> (HTTPS) Am Tevi </font></b>\r\n\r\n\r\n\r\nContent-Length: 104857600000\r\n\r\n'
 
 class Server(threading.Thread):
     def __init__(self, host, port):

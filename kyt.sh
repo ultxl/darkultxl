@@ -1,4 +1,4 @@
-Encrypted by EncTool
+#Encrypted by EncTool
 #By Tevixl
 
 z="

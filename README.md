@@ -21,7 +21,7 @@ wget https://raw.githubusercontent.com/ultxl/darkultxl/main/update.sh && chmod +
 wget https://raw.githubusercontent.com/ultxl/darkultxl/main/ubuntu/udp.sh && chmod +x udp.sh && ./udp.sh
 ```
 
-![logo](https://raw.githubusercontent.com/ultxl/darkultxl/main/sc1.jpg)
+![logo](https://raw.githubusercontent.com/ultxl/darkultxl/main/scc1.jpg)
 
 Support Page
 

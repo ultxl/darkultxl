@@ -1,40 +1,54 @@
-^?ELF^B^A^A^@^@^@^@^@^@^@^@^@^C^@�^@^A^@^@^@X^L^@^@^@^@^@^@@^@^@^@^@^@>
-^@@^@^W^@^V^@^F^@^@^@^D^@^@^@@^@^@^@^@^@^@^@@^@^@^@^@^@^@^@@^@^@^@^@^@>
-^@^@^@^@^@^@^P
-^@^@^@^@^@^@^P
-^@^@^@^@^@^@|^@^@^@^@^@^@^@|^@^@^@^@^@^@^@^D^@^@^@^@^@^@^@Q�td^F^@^@^@>
-^@^@^@^@^@^@^@^@^@^@^@^@]^@^@^@^@^@^@^B^D^@^@^K^@^@^@^@^@^@^@^@^@^@^@^>
-^@_^@x%lx^@=%lu %d^@<null>^@: ^@%lu %d%c^@^A^[^C;|^@^@^@^N^@^@^@\^B^@^>
-�(^A^@9^A^@^@^TI^@^@�()g9^H^E^@^Q()'9^H^]^@^RH��5^A^@^@^T�^C_���^@��^O>
-�^H^A@9�O^@9�O@9J^@^@�H!g9^H^A^L^KH!'9�^G@�l)g9�^W@��^M�^Z�}^N^[�^A^Mk>
-�(^A^@9^A^@^@^TI^@^@�()g9^H^E^@^Q()'9^H^]^@^R���5^A^@^@^T�^G@�^H^A^D��>
-*�^C^H�J^A^L�J^A@9,)g9�^C^L*�^C^H��^A^M��^A^@9�O@9k%g9�^C^K*�^C^H�k^A^>
-ii8�O@9)^A
-^K�O^@9�O@9
-ii8�^G@�(^A@9^H^A
-J(^A^@9�^G@�^H^E^@��^G^@��^W@�^H^E^@q�^W^@����^W��^@��^C_��^C^E��{^R��>
-k)^E^@q^A�)�n�����_��C@�^H^A    k^H^E^@^Q��^_�^D^@^@^T^H^@�^R��^_�^A^@>
-*k^E^@^Q�C^]�(y*���]�(^B^@4^A^@^@^T^_ ^C�H5^D^P^H�H9�^A^@4^A^@^@^T��\�>
-*^H^E^@^Q�C^]�^_ ^C�^H4^D^P^H�^H�(y*�^A^@^@^TH^@^@�^H^Av9h^A^@4^A^@^@^>
-*^H^E^@^Q�C^]�^_ ^C�H2^D^P(y*�^A^@^@^T�^C^���\��C���^C
-*k^E^@^Q�C^]�(y*�^_ ^C��0^D^P^HeH9�^A^@4^A^@^@^T��\��C���^C
-*^H^E^@^Q�C^]�^_ ^Cը/^D^P^He^H�(y*�^A^@^@^T��]�^H^E^@q�^@^@T^A^@^@^T��>
-*k^E^@^Q�C^]�(y*����^W��\��C���^C^_�(y*���\�^_ ^CՈ*^D^P^@I0��^G^@��^@^>
-^@@�����)�'�����^H^Q(�J^A^@q^H^Q����^^��^@^@�^H^@@��^@^@4^A^@^@^T�^@^@>
-^@^@^@^@^@^@^@�^@^@^@^@^@^@^@���o^@^@^@^@�^E^@^@^@^@^@^@���o^@^@^@^@�^>
-bH�^A>^]Ml�^D�̺��S�@^Z��~֑�K�^Q]|�|N]zW��^@�e=G��;r�3Y���^Y�JSW�(~�¿!l�^>
-��J?��W(B(�;D)(�6��t�^Z�;^ZQn\W�MYǋWNuԤ"��9�^Y^Zc��N^P1T�^F<[^N^U^A1��>
-<�^\�C��7���Β_���F!��^[�?^X�SA^O�}����n��hY�^C�^Lc�^M��\^W^W���y�^N^T^>
-iEQ^\r_�^M�@cE�^C4�����d6��=���eg9��GBZ��^FK�Іb��mW���U���_�0�X��I�E"\>
-��^Qs��m�^XP�^[�1^R�X�Ux�PW��?^M ��^Uǣ^[��J�-5��P#�]�-x5�^K�^r�,���?^P>
-r�^N�W��w+����x���)^M�N֥�w���o3�r\^]^?   ��쬑�N^C^M^H�^Y�d�^AK����j^T%~>
-���>�n��ϗ��1m8�q)^F�^Y��%
-��Jf^D�NA�^K�;��a�^N+^R�^O�h^Hb2S^\YrA����hN!^X^V/^]"��-�       �m�af`>
-m�Zy�;�5�
-��^D�����^�j���˅�4�^?��
-���<�ގ��3����騑:^[^_�qJ��^Z��^K^L��ߧ��^Y��^C�M�JM˙���a��3^Q������%��^H>
-K�W8,^M��KG^W"�|8v���X���ev^F^�k�����pHE�_gI۠�gJ��ը�;^_���^Y�?�^Y+��%1>
-^@^@^@^@^@^@^P
-^@^@^@^@^@^@|^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^D^@^@^@^@^@^@^@^@^@^@^@^@^>
-^@^@^@^@^@^@�
-^@^@^@^@^@^@�^A^@^@^@^@^@^@^@^@^@^@^@^@^@^@^H^@^@^@^@^@^@^@^@^@^@^@^@^>
+#!/bin/bash
+dateFromServer=$(curl -v --insecure --silent https://google.com/ 2>&1 | grep Date | sed -e 's/< Date: //')
+biji=`date +"%Y-%m-%d" -d "$dateFromServer"`
+red() { echo -e "\\033[32;1m${*}\\033[0m"; }
+clear
+fun_bar() {
+    CMD[0]="$1"
+    CMD[1]="$2"
+    (
+        [[ -e $HOME/fim ]] && rm $HOME/fim
+        ${CMD[0]} -y >/dev/null 2>&1
+        ${CMD[1]} -y >/dev/null 2>&1
+        touch $HOME/fim
+    ) >/dev/null 2>&1 &
+    tput civis
+    echo -ne "  \033[0;33mPlease Wait Loading \033[1;37m- \033[0;33m["
+    while true; do
+        for ((i = 0; i < 18; i++)); do
+            echo -ne "\033[0;32m#"
+            sleep 0.1s
+        done
+        [[ -e $HOME/fim ]] && rm $HOME/fim && break
+        echo -e "\033[0;33m]"
+        sleep 1s
+        tput cuu1
+        tput dl1
+        echo -ne "  \033[0;33mPlease Wait Loading \033[1;37m- \033[0;33m["
+    done
+    echo -e "\033[0;33m]\033[1;37m -\033[1;32m OK !\033[1;37m"
+    tput cnorm
+}
+res1() {
+    wget https://raw.githubusercontent.com/ultxl/darkultxl/main/ubuntu/menu.zip
+    unzip menu.zip
+    chmod +x menu/*
+    mv menu/* /usr/local/sbin
+    rm -rf menu
+    rm -rf menu.zip
+    rm -rf update.sh
+}
+netfilter-persistent
+clear
+echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e " \e[1;97;101m          UPDATED SCRIPT POWERED BY TEVIXL \e[0m"
+echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+echo -e "  \033[1;91m update script service\033[1;37m"
+fun_bar 'res1'
+echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+read -n 1 -s -r -p "Press [ Enter ] to back on menu"
+menu
+
+###########- COLOR CODE -##############

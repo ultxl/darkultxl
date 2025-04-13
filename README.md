@@ -25,7 +25,7 @@ wget https://raw.githubusercontent.com/ultxl/darkultxl/main/ubuntu/udp.sh && chm
 
 Support Page
 
-![logo](https://raw.githubusercontent.com/ultxl/darkultxl/main/sc2.jpg)
+![logo](https://raw.githubusercontent.com/ultxl/darkultxl/main/scc2.jpg)
 
 
 ### CONTACT ME

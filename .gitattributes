@@ -1,1 +1,2 @@
-echo "genz.sh linguist-language=Shell" >> .gitattributes
+Auto detect text files and perform LF normalization
+* text=auto

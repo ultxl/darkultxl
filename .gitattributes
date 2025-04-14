@@ -1,1 +1,1 @@
-echo "obfuscated.sh linguist-language=Shell" >> .gitattributes
+echo "genz.sh linguist-language=Shell" >> .gitattributes
